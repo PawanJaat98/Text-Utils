@@ -6,6 +6,7 @@ import Text from "./components/Text";
 import NavBar from "./components/Nav";
 import About from "./components/About";
 import Alert from "./components/Alert";
+//Bhai ji
 function App() {
   let [darkMode, setDarkMode] = useState(false);
   let [alert, setAlert] = useState({});
